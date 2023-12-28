@@ -281,7 +281,7 @@ ul.nav li.active a:before {
 	background-repeat: no-repeat;
 	background-size:cover;
 	width:100%;
-	height: 650px;
+	height: 550px;
 }
 #home-carousel .item:before {
 	background-color: #000;
@@ -311,7 +311,7 @@ ul.nav li.active a:before {
 }
 .carousel-caption h2 {
 	color:#fff;
-	font-size:75px;
+	font-size:30px;
 	font-weight:600;
 	margin-top:0px;
 	text-transform:none;
